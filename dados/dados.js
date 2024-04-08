@@ -7,14 +7,14 @@ function logar(){
         alert('Sucesso');
         location.href = "https://ici-inc.github.io/icitv/home.html"; 
     }else{
-        alert('Tente de novo')
+        
     }
 
-    if(login = "14298156" && senha == "14298156"){//marcelo
+    if(login = "14298156" && senha == "14298156"){ //marcelo
         alert('Sucesso');
         location.href = "https://ici-inc.github.io/icitv/home.html";
     }else{
-        alert('Tente de novo')
+        
     }
             
 }
