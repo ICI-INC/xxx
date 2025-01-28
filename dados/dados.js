@@ -5,14 +5,14 @@ function logar(){
 
     if(login = "1" && senha == "1"){ //yasmin
         alert('Sucesso');
-        location.href = "https://ici-inc.github.io/icitv/home.html"; 
+        location.href = "https://ici-inc.github.io/icitv/assets/icitv.html"; 
     }else{
         
     }
 
     if(login = "1" && senha == "14298156"){ //marcelo
         alert('Sucesso');
-        location.href = "https://ici-inc.github.io/icitv/home.html";
+        location.href = "https://ici-inc.github.io/icitv/assets/icitv.htmll";
     }else{
         
     }
