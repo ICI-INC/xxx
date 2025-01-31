@@ -10,11 +10,6 @@ function logar(){
         
     }
 
-    if(login = "1" && senha == "14298156"){ //marcelo
-        alert('Sucesso');
-        location.href = "https://ici-inc.github.io/icitv/assets/icitv.html";
-    }else{
-        
-    }
+    
             
 }
